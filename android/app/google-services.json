@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "617750047514",
+    "project_id": "login2-89b4e",
+    "storage_bucket": "login2-89b4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617750047514:android:f04d86c14a3a5610f25aa3",
+        "android_client_info": {
+          "package_name": "com.instaflutter.free_login_screen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617750047514-0nfk0tos9ejea3jjfnde55elsg1u58rq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.instaflutter.free_login_screen",
+            "certificate_hash": "43cc1f19ff371c7058ce24a3a706c16fe7a87b18"
+          }
+        },
+        {
+          "client_id": "617750047514-f976c7e1fes00bjfka52e06uf76bj92u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzuJqHAh6aKrmvWfKNEEypm_xObaCyCXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617750047514-f976c7e1fes00bjfka52e06uf76bj92u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
